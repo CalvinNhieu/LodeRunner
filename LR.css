@@ -1,0 +1,24 @@
+body {
+	background-image:url('darkbrick.png');
+	text-align:center;
+}
+div {
+	font-family:"Lemon";
+	color:#F2D44F;
+	height:70px;
+	font-size:40px;
+	opacity:0;
+}
+#canvas {
+	width:750px;
+	height:450px;
+	background-color: #000000;
+	border:1px solid #c3c3c3;
+	opacity:0;
+}
+p {
+	color:#FFFFFF;
+}
+#lives {
+    color:#FFFFFF;
+}
